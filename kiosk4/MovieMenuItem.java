@@ -22,12 +22,7 @@ public class MovieMenuItem {
         return moviePrice;
     }
 
-    public String getMovieExplanation() {
-        return movieExplanation;
-    }
-
     //세터
-
 
     @Override
     public String toString() {
